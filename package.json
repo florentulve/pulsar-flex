@@ -46,7 +46,7 @@
   "homepage": "https://github.com/ayeo-flex/pulsar-flex#readme",
   "dependencies": {
     "crc-full": "^1.1.0",
-    "google-protobuf": "^3.17.3"
+    "google-protobuf": "^3.21.0"
   },
   "engines": {
     "node": ">=10.6.0"
